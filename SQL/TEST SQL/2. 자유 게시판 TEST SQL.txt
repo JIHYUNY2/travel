@@ -1,0 +1,17 @@
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100001, '자유게시판 샘플제목 입니다 12345', '자유', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100001, '자유게시판 샘플제목 입니다 12345', '자유', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100002, '자유게시판 샘플제목 입니다 12345', '자유', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100003, '자유게시판 샘플제목 입니다 12345', '여행친구찾기', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100004, '자유게시판 샘플제목 입니다 12345', '여행친구찾기', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100005, '자유게시판 샘플제목 입니다 12345', '여행친구찾기', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100006, '자유게시판 샘플제목 입니다 12345', '후기', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100007, '자유게시판 샘플제목 입니다 12345', '후기', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100008, '자유게시판 샘플제목 입니다 12345', '후기', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100009, '자유게시판 샘플제목 입니다 12345', '후기', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100010, '자유게시판 샘플제목 입니다 12345', '여행 추천', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100011, '자유게시판 샘플제목 입니다 12345', '여행 추천', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100012, '자유게시판 샘플제목 입니다 12345', '여행 추천', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100013, '자유게시판 샘플제목 입니다 12345자유게시판 샘플제목 입니다 12345', '여행 추천', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100014, '자유게시판 샘플제목 입니다 12345자유게시판 샘플제목 입니다 12345', '자유', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100015, '자유게시판 샘플제목 입니다 12345자유게시판 샘플제목 입니다 12345', '자유', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);
+INSERT INTO BOARD_FREE VALUES(SEQ_BOARD_FREE.NEXTVAL, 10100016, '자유게시판 샘플제목 입니다 12345자유게시판 샘플제목 입니다 12345', '자유', '게시판 내용 샘플 게시판 내용 샘플 게시판 내용 샘플 ', NULL, DEFAULT, DEFAULT, NULL);

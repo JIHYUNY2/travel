@@ -1,0 +1,12 @@
+계절별 여행지 추가로 TRAVEL_SEASON 테이블 추가함
+트리거로 여행지가 추가될때마다 자동추가됨
+
+컬럼은 봄 여름 가을 겨울이고  DEFAULT로 0 (FALSE)이 들어가 있음
+현재는 수동으로 계절을 넣어주어야함 1이 (TRUE)값
+EX) UPDATE TRAVEL_SEASON 
+           SET SPRING = 1,
+           FALL = 1
+        WHERE TRAVEL_NO = 5040001;
+-> TRAVEL_NO 5040001 서울숲은 봄과 가을 여행지가 됨
+
+각 테스트 데이터는 필요한 만큼 추가로 복사해서 사용 ㄱㄱ
